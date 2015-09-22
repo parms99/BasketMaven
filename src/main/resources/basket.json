@@ -1,0 +1,24 @@
+{
+  "basket" : [
+    {
+      "item": "BANANA",
+      "quantity" : 3
+    },
+    {
+      "item": "ORANGE",
+      "quantity" : 5
+    },
+    {
+      "item": "APPLE",
+      "quantity" : 4
+    },
+    {
+      "item": "LEMON",
+      "quantity" : 2
+    },
+    {
+      "item": "PEACH",
+      "quantity" : 7
+    }
+  ]
+}
